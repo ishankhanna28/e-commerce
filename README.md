@@ -1,6 +1,5 @@
 // E- Commerce Management System
 
-> ## Updated project with extra Features like WISHLIST, List Orders, add Reviews, updated routing, resolved search bug is available for Premium 
 
 # online-shopping-with-advanced-admin-page
 Updated version
